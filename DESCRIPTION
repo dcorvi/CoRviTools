@@ -1,0 +1,12 @@
+Package: CoRviTools
+Type: Package
+Title: These are a set of helper functions created and discovered by me
+Version: 0.1.0
+Authors@R: person("Dennis", "Corvi", email = "dmcorvi2@gmail.com",
+  role = c("aut", "cre"))
+Description: These functions do things like capitalize names or turn numbers
+    into names.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
